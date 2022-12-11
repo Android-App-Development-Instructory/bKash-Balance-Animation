@@ -23,7 +23,7 @@ In this video we will learn how to animate bKash balance option in Android (JAVA
 ## Phone Screenshots:
 
 
-| Home Screen      |  HomeScreen(Animating) |  HomeScreen(Animating) |  HomeScreen(Animating) |  
+| HomeScreen      |  HomeScreen(Animating) |  HomeScreen(Animating) |  HomeScreen(Animating) |  
 | :---:       |    :----:   | :----:   |  :----:   |
 | <img src="screenshots\Screenshot_20221211_224849.png">      |  <img src="screenshots\Screenshot_20221211_224907.png" >     |  <img src="screenshots\Screenshot_20221211_224922.png" >  | <img src="screenshots\Screenshot_20221211_224935.png" >  |
 
